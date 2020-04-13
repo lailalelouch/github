@@ -23,3 +23,5 @@ $ cd pictures
 $ cd
 /Users/laila/Desktop/pictures
 ```
+
+Please do take the time to test this command out before moving on.

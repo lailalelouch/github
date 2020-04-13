@@ -1,4 +1,4 @@
-[Github](www.github.com) is a website that uses `git` which is the vresion control system. So, as we said before `git` keeps track of the changes you've made to your files/project. [Github](www.github.com) is used to keep those files with the tracking online. So, it's basically like uploading your files online but with a twist.
+[Github](https://www.github.com) is a website that uses `git` which is the vresion control system. So, as we said before `git` keeps track of the changes you've made to your files/project. [Github](https://www.github.com) is used to keep those files with the tracking online. So, it's basically like uploading your files online but with a twist.
 
 Start by opening www.github.com and register. I'll wait for you to finish....
 
